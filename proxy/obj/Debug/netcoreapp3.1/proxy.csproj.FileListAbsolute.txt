@@ -1,0 +1,14 @@
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.exe
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.deps.json
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.runtimeconfig.json
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.runtimeconfig.dev.json
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.dll
+C:\Users\ILYAS\source\repos\proxy\proxy\bin\Debug\netcoreapp3.1\proxy.pdb
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.csproj.AssemblyReference.cache
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.AssemblyInfoInputs.cache
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.AssemblyInfo.cs
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.csproj.CoreCompileInputs.cache
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.dll
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.pdb
+C:\Users\ILYAS\source\repos\proxy\proxy\obj\Debug\netcoreapp3.1\proxy.genruntimeconfig.cache
